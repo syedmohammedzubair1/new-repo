@@ -1,0 +1,25 @@
+{
+  "name": "myproject",
+  "version": "1.0.0",
+  "description": "let's build an api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syedmohammedzubair1/new-repo.git"
+  },
+  "author": "Syed Mohammed Zubair",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/syedmohammedzubair1/new-repo/issues"
+  },
+  "homepage": "https://github.com/syedmohammedzubair1/new-repo#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongodb": "^6.6.2",
+    "mongoose": "^8.4.0",
+    "nodemon": "^3.1.0"
+  }
+}
